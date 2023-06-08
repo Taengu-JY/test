@@ -61,4 +61,4 @@ counter = collections.Counter(words)
 
 #.jion 써서 단어들 합쳐보기([1:10]의로 합치기 쉽게 만들었음)
 
-print("".join(words[1:10]))
+#print("".join(words[1:10]))
